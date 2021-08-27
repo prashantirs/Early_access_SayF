@@ -295,6 +295,12 @@
     .footer-img{
         margin-bottom: 55px;
     }
+        .write-us{
+       
+        position: relative;
+        left: 3rem;
+        bottom: 0.51rem;
+    }
 }
 
 
